@@ -79,3 +79,6 @@ generated_file = 'generated/res.jpg'  # 可以更改为generated/huashi.jpg
 
 (二)训练完成后重新加载模型CycleGAN-test.py  
 6.加载模型，设置路径为第五点的ckpt路径，使用testC进行测试。  
+
+
+!![Image text](https://github.com/hezhangsen/FGQY/blob/master/kxfgqy/generated/huashi-7000.jpg)
