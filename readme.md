@@ -81,4 +81,9 @@ generated_file = 'generated/res.jpg'  # 可以更改为generated/huashi.jpg
 6.加载模型，设置路径为第五点的ckpt路径，使用testC进行测试。  
 
 
-!![Image text](https://github.com/hezhangsen/FGQY/blob/master/kxfgqy/generated/huashi-7000.jpg)
+
+<div align=center>
+           <img width="300" height="300" src="https://github.com/hezhangsen/FGQY/blob/master/show/kk.jpg"/>
+           <img width="300" height="300" src="https://github.com/hezhangsen/FGQY/blob/master/kxfgqy/preprocessing/img/scream.jpg"/>
+           <img width="300" height="300" src="https://github.com/hezhangsen/FGQY/blob/master/show/pp.png"/>
+</div>
